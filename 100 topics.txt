@@ -1,0 +1,121 @@
+Updated todo list
+
+## 1. AI Foundations
+-  
+- Machine Learning
+- Deep Learning
+- Neural Network
+- Artificial Neural Network
+- Generative AI
+- Large Language Model
+- Foundation Model
+- Multimodal AI
+- Natural Language Processing
+
+## 2. Learning Methods
+- Supervised Learning
+- Unsupervised Learning
+- Semi-Supervised Learning
+- Reinforcement Learning
+- Transfer Learning
+- Federated Learning
+- Fine-Tuning
+- Few-Shot Learning
+- Zero-Shot Learning
+- Synthetic Data
+
+## 3. Prompting and Reasoning
+- Prompt Engineering
+- Loop Engineering
+- Context Engineering
+- Chain-of-Thought
+- Tree-of-Thought
+- Context Window
+- Temperature
+- Tokens
+- Tokenization
+- Hallucination
+
+## 4. Models and Architectures
+- Transformer
+- Attention Mechanism
+- Self-Attention
+- Encoder
+- Decoder
+- Diffusion Model
+- Generative Adversarial Network
+- Convolutional Neural Network
+- Recurrent Neural Network
+- Long Short-Term Memory
+
+## 5. AI Data and Search
+- Embeddings
+- Vector Database
+- Semantic Search
+- Knowledge Graph
+- Retrieval-Augmented Generation
+- Computer Vision
+- Speech Recognition
+- Text-to-Speech
+- Image Generation
+- Video Generation
+
+## 6. Model Development
+- Training
+- Inference
+- Model Weights
+- Parameters
+- Model Evaluation
+- Benchmarking
+- Explainable AI
+- Bias Detection
+- Human-in-the-Loop
+- Red Teaming
+
+## 7. AI Agents
+- AI Agents
+- Autonomous Agents
+- Multi-Agent Systems
+- Agentic AI
+- Agent Orchestration
+- Agent Memory
+- Tool Use
+- Function Calling
+- Model Context Protocol
+- Skills
+
+## 8. AI Assistants and Models
+- ChatModes
+- Copilot
+- Claude
+- ChatGPT
+- Gemini
+- Llama
+- Mistral
+- Grok
+- DeepSeek
+- OpenAI
+
+## 9. AI Platforms and Infrastructure
+- OpenHands
+- OpenClaw
+- Anthropic
+- Microsoft Foundry
+- Azure AI
+- Hugging Face
+- NVIDIA CUDA
+- AI Accelerator
+- GPU
+- NPU
+
+## 10. AI Safety, Ethics, and History
+- Edge AI
+- Responsible AI
+- AI Safety
+- AI Alignment
+- AI Governance
+- Guardrails
+- AI Ethics
+- Singularity
+- AI Winter
+- Godfather of AI
